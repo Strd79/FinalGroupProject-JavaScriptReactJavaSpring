@@ -16,6 +16,12 @@ This was my final group project with CodeClan. My team consisted of Linsey Curri
 * Integrate additional APIs - e.g. NHS Services
 * Integrate Maps for displaying local GPs, Pharmacies etc.
 
+### App Screenshots
+
+<img src="NHS_Health_App_Homepage.png" />
+
+<img src="NHS_Health_App_Users_page.png" />
+
 --------------------------------------------------------------------------------
 
 ### Getting Started with Create React App
